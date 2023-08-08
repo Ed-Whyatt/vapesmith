@@ -112,3 +112,8 @@
     position: relative;
     background-color: #e0218a;
 }
+
+.pink-footer {
+    min-height: 10vh;
+    background-color: #e0218a;
+}
