@@ -1,6 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .pink {
+    min-height: 3vh;
+    position: relative;
     background-color: pink;
-    height: 50px;
+}
+
+/* https://www.shapedivider.app/ */
+.custom-shape-divider-top-1691496242 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1691496242 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 30px;
+}
+
+.custom-shape-divider-top-1691496242 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.pink-two {
+    background-color: pink;
+    position: relative;
+}
+
+.pink-three {
+    min-height: 3vh;
+    position: relative;
+    background-color: pink;
+}
+
+/* https://www.shapedivider.app/ */
+.custom-shape-divider-bottom-1691496986 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1691496986 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 30px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1691496986 .shape-fill {
+    fill: #FFFFFF;
 }
 
 .slider-one {
