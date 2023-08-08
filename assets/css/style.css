@@ -6,7 +6,7 @@
 .pink {
     min-height: 3vh;
     position: relative;
-    background-color: pink;
+    background-color: #e0218a;
 }
 
 /* https://www.shapedivider.app/ */
@@ -32,14 +32,14 @@
 }
 
 .pink-two {
-    background-color: pink;
+    background-color: #e0218a;
     position: relative;
 }
 
 .pink-three {
     min-height: 3vh;
     position: relative;
-    background-color: pink;
+    background-color: #e0218a;
 }
 
 /* https://www.shapedivider.app/ */
@@ -105,4 +105,10 @@
     background-size: cover;
     align-items: center;
     justify-content: center;
+}
+
+.pink-four {
+    min-height: 10vh;
+    position: relative;
+    background-color: #e0218a;
 }
