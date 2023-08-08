@@ -65,26 +65,44 @@
     fill: #FFFFFF;
 }
 
+.top-carousel-container {
+    margin-top: 10px;
+}
+
 .slider-one {
     height: 200px;
-    width: 200px;
     background-color: blue;
 }
 
 .slider-two {
     height: 200px;
-    width: 200px;
     background-color: green;
 }
 
 .slider-three {
     height: 200px;
-    width: 200px;
     background-color: red;
 }
 
 .slider-four {
     height: 200px;
-    width: 200px;
     background-color: orange;
+}
+
+.image-container {
+    margin-top: 10px;
+}
+
+.shop-image {
+    height: 500px;
+    background: url('https://images.pexels.com/photos/626986/pexels-photo-626986.jpeg');
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
 }
