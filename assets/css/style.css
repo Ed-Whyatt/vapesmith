@@ -2,3 +2,27 @@
     background-color: pink;
     height: 50px;
 }
+
+.slider-one {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.slider-two {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.slider-three {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.slider-four {
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+}
