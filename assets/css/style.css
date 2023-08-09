@@ -4,7 +4,7 @@
 }
 
 .pink {
-    min-height: 3vh;
+    min-height: 6vh;
     position: relative;
     background-color: #e0218a;
 }
@@ -32,12 +32,13 @@
 }
 
 .pink-two {
+    min-height: 3vh;
     background-color: #e0218a;
     position: relative;
 }
 
 .pink-three {
-    min-height: 3vh;
+    min-height: 5vh;
     position: relative;
     background-color: #e0218a;
 }
@@ -105,6 +106,10 @@
     background-size: cover;
     align-items: center;
     justify-content: center;
+}
+
+.iframe-container {
+    margin-top: 5px;
 }
 
 .pink-four {
