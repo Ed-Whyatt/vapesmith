@@ -32,7 +32,7 @@
 }
 
 .pink-two {
-    min-height: 3vh;
+    min-height: 1vh;
     background-color: #e0218a;
     position: relative;
 }
@@ -72,22 +72,11 @@
 
 .slider-one {
     height: 200px;
-    background-color: blue;
 }
 
-.slider-two {
-    height: 200px;
-    background-color: green;
-}
-
-.slider-three {
-    height: 200px;
-    background-color: red;
-}
-
-.slider-four {
-    height: 200px;
-    background-color: orange;
+.special-offer-img {
+    background-color: transparent;
+    position: absolute;
 }
 
 .image-container {
