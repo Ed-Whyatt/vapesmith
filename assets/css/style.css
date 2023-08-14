@@ -83,22 +83,12 @@
     margin-top: 10px;
 }
 
-.shop-image {
-    height: 500px;
-    background: url('https://images.pexels.com/photos/626986/pexels-photo-626986.jpeg');
-    background-color: #fff;
-    background-repeat: no-repeat;
-    background-position: center top;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    align-items: center;
-    justify-content: center;
-}
-
 .iframe-container {
     margin-top: 5px;
+}
+
+.about-us-text {
+    width: 95%;
 }
 
 .pink-four {
@@ -110,6 +100,12 @@
 .pink-footer {
     min-height: 10vh;
     background-color: #e0218a;
+}
+
+.address-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .facebook-logo {
