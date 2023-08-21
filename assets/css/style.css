@@ -125,4 +125,22 @@
         margin-right: 10px;
     }
 
+
+}
+
+@media screen and (max-width: 761px) {
+
+    .opening-about-head {
+        margin-left: 10%;
+    }
+    
+    .opening-text {
+        margin-left: 10%;
+    }
+
+    .about-us-text {
+        margin-left: 10%;
+        width: 85%;
+    }
+
 }
