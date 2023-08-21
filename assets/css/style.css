@@ -71,7 +71,7 @@
 }
 
 .slider-one {
-    height: 200px;
+    min-height: 200px;
 }
 
 .special-offer-img {
